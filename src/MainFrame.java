@@ -10,7 +10,7 @@ public class MainFrame extends Frame {
     private  Button btnSub = new Button("right");
     private  Button btnStop = new Button("Fire");
     private  Button btnExit = new Button("Exit");
-    private Label lab = new Label("FLY");
+    private Label lab = new Label("SUN");
     private int n = 0,labX=185,labY=50;
     private Timer t1;
     private Timer t2;
